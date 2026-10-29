@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Here's NOR1EQ0, a random nobody who major in Computer Science.
+
+## Skills
+
+SLEEP
+
 <!--
 **NOR1EQ0/NOR1EQ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
